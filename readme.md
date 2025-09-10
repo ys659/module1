@@ -49,3 +49,5 @@ Git
 6. git reset - remove files from staging
 
 7. git diff - show changes in unstaged files
+
+8. git commit -m - commit staged files/add new snapshot
