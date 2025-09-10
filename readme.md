@@ -27,3 +27,5 @@ Linux
 12. top - monitor system processes
 
 13. grep - search regexes/patterns in files
+
+14. whoami - display current user
