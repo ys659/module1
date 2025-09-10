@@ -36,4 +36,6 @@ Linux
 Git
 ---
 
-1. git init
+1. git init - initialize git repo
+
+2. git clone - clone git repo
