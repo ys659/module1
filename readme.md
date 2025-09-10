@@ -39,3 +39,5 @@ Git
 1. git init - initialize git repo
 
 2. git clone - clone git repo
+
+3. git config - configure user info
