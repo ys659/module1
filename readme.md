@@ -53,3 +53,5 @@ Git
 8. git commit -m - commit staged files/add new snapshot
 
 9. git branch - list local branches
+
+10. git branch [new-branch-name] - create new branch
