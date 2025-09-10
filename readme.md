@@ -41,3 +41,5 @@ Git
 2. git clone - clone git repo
 
 3. git config - configure user info
+
+4. git status - show modified files staged for next commit
