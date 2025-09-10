@@ -31,3 +31,9 @@ Linux
 14. whoami - display current user
 
 15. ping - send ICMP echo requests to a host
+
+
+Git
+---
+
+1. git init
