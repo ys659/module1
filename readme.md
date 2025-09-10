@@ -8,9 +8,9 @@ Linux
 
 3. mkdir - make new dir
 
-4. rm - remove/delete file
+4. rm [-r] - remove file/folders with -r
 
-5. cp - copy file
+5. cp [-r] - copy file/folders with -r
 
 6. mv - move/rename file
 
@@ -46,7 +46,7 @@ Git
 
 5. git add - add file in staging
 
-6. git reset - remove files from staging
+6. git reset [file] - remove file from staging
 
 7. git diff - show changes in unstaged files
 
