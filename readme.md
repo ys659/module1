@@ -25,3 +25,5 @@ Linux
 11. ps - display processes
 
 12. top - monitor system processes
+
+13. grep - search regexes/patterns in files
