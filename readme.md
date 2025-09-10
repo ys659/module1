@@ -57,3 +57,5 @@ Git
 10. git branch [new-branch-name] - create new branch
 
 11. git switch - switch branch
+
+12. git merge [branch] - merge [branch] to current branch
