@@ -18,4 +18,6 @@ Linux
 
 8. find - search for files & dir
 
-9. chmod - change mode/file permissions  
+9. chmod - change mode/file permissions
+
+10. tar - create/extract archive files
