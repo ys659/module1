@@ -46,4 +46,6 @@ Git
 
 5. git add - add file in staging
 
-6. git reset - remove files for staging
+6. git reset - remove files from staging
+
+7. git diff - show changes in unstaged files
