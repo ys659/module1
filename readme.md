@@ -45,3 +45,5 @@ Git
 4. git status - show modified files staged for next commit
 
 5. git add - add file in staging
+
+6. git reset - remove files for staging
