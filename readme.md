@@ -43,3 +43,5 @@ Git
 3. git config - configure user info
 
 4. git status - show modified files staged for next commit
+
+5. git add - add file in staging
