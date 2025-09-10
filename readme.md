@@ -29,3 +29,5 @@ Linux
 13. grep - search regexes/patterns in files
 
 14. whoami - display current user
+
+15. ping - send ICMP echo requests to a host
