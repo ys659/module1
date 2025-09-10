@@ -15,3 +15,5 @@ Linux
 6 mv - move/rename file
 
 7 cat - view contents of a file
+
+8 find - search for files & dir
