@@ -13,3 +13,5 @@ Linux
 5 cp - copy file
 
 6 mv - move/rename file
+
+7 cat - view contents of a file
