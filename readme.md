@@ -2,4 +2,4 @@ Module 1
 
 Linux
 -----
-1 pwd
+1 pwd - check present working dir
