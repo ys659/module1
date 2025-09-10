@@ -7,3 +7,5 @@ Linux
 2 ls - list items in a dir
 
 3 mkdir - make new dir
+
+4 rm - remove/delete file
