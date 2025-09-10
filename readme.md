@@ -59,3 +59,5 @@ Git
 11. git switch - switch branch
 
 12. git merge [branch] - merge [branch] to current branch
+
+13. git log - show all commits in current branch history
