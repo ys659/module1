@@ -55,3 +55,5 @@ Git
 9. git branch - list local branches
 
 10. git branch [new-branch-name] - create new branch
+
+11. git switch - switch branch
