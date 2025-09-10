@@ -21,3 +21,5 @@ Linux
 9. chmod - change mode/file permissions
 
 10. tar - create/extract archive files
+
+11. ps - display processes
