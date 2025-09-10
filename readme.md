@@ -10,4 +10,6 @@ Linux
 
 4 rm - remove/delete file
 
-5 cp - copy
+5 cp - copy file
+
+6 mv - move/rename file
