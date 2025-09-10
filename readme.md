@@ -23,3 +23,5 @@ Linux
 10. tar - create/extract archive files
 
 11. ps - display processes
+
+12. top - monitor system processes
