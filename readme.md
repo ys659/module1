@@ -63,3 +63,5 @@ Git
 13. git log - show all commits in current branch history
 
 14. git remote add [alias] [url] - add git URL as an alias
+
+15. git pull - fetch & merge any commits from tracking remote branch
